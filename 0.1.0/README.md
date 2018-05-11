@@ -5,6 +5,76 @@
 * **Location**: DevOpsGuys office, Cardiff.
 * **DateTime**: 2018/05/10 18:00:00
 
+___
+
+## Speakers
+
+### Matthew Macdonald-Wallace (@mbconsultinguk)
+
+#### IoT? Cloud-Native? DevOps? That's a lot of buzzwords, the only one that's missing is "blockchain"...
+
+Come and find out why Mockingbird Consulting believe that Cloud-Native is a good answer, but not always the right one, to IoT deployments - we'll even talk about what the industry is doing to ensure that customers know what happens to their data after they've sent it to you, and why understanding your supply-chain as well as your tool-chain is so important.
+
+Matthew Macdonald-Wallace has been encouraging organisations to adopt better ways of working through Agile and DevOps for the past 8 years. He's also worked in tech-support and systems administration, and he's even been known to turn his hand to writing code.
+These days Matthew can be found helping organisations make better decisions by adopting Internet of Things strategies.
+Matthew lives in Monmouth, Wales with his family and he can often be found chasing across the fields after the family dog whilst she refuses to come back to him.
+
+### Jenkins X: Easy CI/CD for Kubernetes
+
+#### James Rawlings (@jdrawlings)
+
+With the rise of Kubernetes, Cloud Native, Microservices and Continuous Delivery how we build, package, run and manage our applications has changed. We need to get better at delivering business value to our customers faster and continuously with a cloud native strategy - but how?
+
+In this talk we’ll briefly introduce Kubernetes and explain how the new open source project Jenkins X aims to help developers move to the cloud. We will give a live Jenkins X demonstration showing:
+
+* easily setup your own Jenkins based CI / CD system on your cloud of choice
+* quickly get started developing new microservices with automated CI / CD
+* import existing projects with automated CI / CD
+* use Pull Requests to trigger CI, Preview Environments, human approval then a full CD release
+* use automated provisioning to testing, staging, ephemeral and production environments via helm charts and GitOps
+* automated CVE analysis for docker images with Anchore
+
+James has a passion for continuous delivery and software automation in general. Continually looking at ways to help improve developers experience for the cloud. James works on the OSS project Jenkins X a CI/CD solution for Kubernetes
+
+## Food and Drinks will be provided
+
+## Agenda
+
+After a successful Kubernetes 101 workshop, we're opening the floor for people to share their experiences.
+
+The organisers of the event are heading to KubeCon and CloudNativeCon the week before the Meetup, so will share news and swag from the event.
+
+After the talks, we'll be going to the pub(s) for a Post-Meetup Cool Down.
+
+## Who is this for
+
+We aim to build a community for discussion and support and will welcome anyone that wants to attend.
+
+### Skill sets
+
+* If you're new to Cloud Native
+* Come along and we'll help get you up to speed and show you the ropes!
+* If you're Native to the Cloud
+* Come along and share your experiences with us and meet like minded people!
+* If you're:
+* A programmer with python, dotnet, java, go, php...
+* A front-end developer, back-end developer, full-stack or devops engineer...
+* A student, full/part time, contractor, business owner, hobbyist, retired...
+* Spaces or Tabs...
+
+## Location
+
+The talks will be held in Cardiff City Centre, the venue will be near car parks and train stations for convenience.
+
+## Feedback / Content
+
+Please contact either of the organisers if you want to:
+
+* Give a talk
+* Get more information regarding the Meetup
+* Talk about sponsorship
+* Any other suggestions or support
+
 ---
 
 ## Speaker Slides
