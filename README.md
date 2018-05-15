@@ -10,7 +10,7 @@
 
 ## Blog
 
-* [001: Our First Meetup](/Blog/001_OURFIRSTMEETUP)
+* [001: Our First Meetup](/Blog/001_OURFIRSTMEETUP.md)
 
 ## Book Club
 

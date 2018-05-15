@@ -1,37 +1,36 @@
 # BOOK CLUB
 
-Cloud Native Wales (CNW) are focused on helping people learn new technologies and skills.
+Cloud Native Wales (CNW) is focused on helping people learn new technologies and skills.
 
-From our own personal experiences, you cannot be dependent on your job to help learn new technologies to help further your career.  This is not a fault with businesses, and we're starting to see better company benefits and attitudes towards employee development.  This is set up to help those who currently don't have that on offer.
+From our own personal experiences, we're beginning to see companies improve their employee development offerings, but you cannot be dependent on your job to help learn new technologies to help further your career. The CNW Book Club provides a space for people to discuss Cloud Native topics in which they are interested (whether for professional or personal reasons).
+[//]: # ("The CNW Book Club is set up to help those who don't currently have access to personal development through their workplaces". AJ: this line seems to exclude people who just have an interest in the Book Club for their own personal, rather than professional, development. How about "")
 
 ## Why a Book Club
 
-Books are chosen related to Cloud Native technologies.  A Book Club has a number of benefits including:
+All of the discussed books will be related to Cloud Native technologies. A Book Club has a number of benefits including:
 
-* It doesn't matter where you are geographically based.
-* You don't need any technology set up to read a book.
-* A community can be set up connecting like-minded individuals.
-* Learning as a community makes it more likely an individual will complete the book.
-* People can support eachother to understand complex processes.
+* It doesn't matter where the reader is based geographically
+* The reader doesn't need to configure any technology to read a book (beyond a PDF reader!)
+* Learning as a community makes it more likely the reader will complete the book
+* People can support each other to understand complex processes/concepts
 
 ## Connect with the Author
 
-If you've written a technical book on a topic, it's generally considered that you have a deep understanding of said technology.  At the end of the Book Club, we organise a hangout (video conference call) with the Author.  Members of the Book Club can ask questions or just say thank you.
+At the end of the Book Club, a hangout (video conference call) with the author (typically a subject matter **expert**) takes place.  Members of the Book Club can ask questions, say thank you or give interesting examples of the problems that the book may have helped them solve.
 
 ## What do people get from this
 
 ### Book Club Members
 
-They get the chance to learn something new.  The digital landscape is constantly changing and moving forward.  If you've been working the same job for the last 5 years, its likely that the technology is 5 years old.  Looking to get a new job or suggest improvements to the current solution is tough as the individual doesn't have experience in what they're trying to start.
-
-Using the Book Club as an example of experience using a technology, it will give confidence to the individual to say that they do know a technology, that they are connected with a community of like minded people who can offer support as well as knowing the Author of the book.
+The digital landscape is constantly and quickly evolving. If you've been working the same job for the last 5 years, it's possible that you were hired based on your knowledge of a 5 year old technology and are continuing to use it regularly. Looking to get a new job or suggest improvements to the current solution is tough as the individual doesn't have experience in what they're trying to start. Using the Book Club as an example of experience using a technology can give confidence to the individual to say that they are not only familiar with a technology, but have spoken to the author of the book, and remain connected with a community of like-minded people who can offer support.
 
 ### Authors
 
-For authors, they get to have their book shared and discussed by a community.  They can receive feedback about the book as well as see how their work has empowered people to better themselves and create new opportunities for their careers.
+Authors are able to have their book shared and discussed by a community. They can receive feedback about the book as well as see how their work has empowered people to better themselves and create new opportunities for their careers and the companies for which they work.
+[//]: # (AJ: Some wording here should make clear that the author may choose to offer their book to members at a discount, but we're not suggesting that they give it out for free, even though some will be kind enough to do so)
 
 ### Businesses
 
-With staff learning new skills it means that the business will have new opportunities to solve their problems and further enhance their products.  If there is a fear of loosing staff due to personal development, then there are bigger problems with the said business that a Book Club cannot solve.  Having a highly skilled workforce will improve the quality of output and make said business more competitive in their marketplace.
+The Book Club helps to improve the skill and knowledge level within your organisation.
 
 ## Get Started
