@@ -11,3 +11,7 @@
 ## Blog
 
 * [001: Our First Meetup](/Blog/001_OURFIRSTMEETUP)
+
+## Book Club
+
+* [README](/BookClub/README.md)
