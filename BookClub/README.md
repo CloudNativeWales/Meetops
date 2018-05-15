@@ -3,7 +3,6 @@
 Cloud Native Wales (CNW) is focused on helping people learn new technologies and skills.
 
 From our own personal experiences, we're beginning to see companies improve their employee development offerings, but you cannot be dependent on your job to help learn new technologies to help further your career. The CNW Book Club provides a space for people to discuss Cloud Native topics in which they are interested (whether for professional or personal reasons).
-[//]: # ("The CNW Book Club is set up to help those who don't currently have access to personal development through their workplaces". AJ: this line seems to exclude people who just have an interest in the Book Club for their own personal, rather than professional, development. How about "")
 
 ## Why a Book Club
 
@@ -26,8 +25,7 @@ The digital landscape is constantly and quickly evolving. If you've been working
 
 ### Authors
 
-Authors are able to have their book shared and discussed by a community. They can receive feedback about the book as well as see how their work has empowered people to better themselves and create new opportunities for their careers and the companies for which they work.
-[//]: # (AJ: Some wording here should make clear that the author may choose to offer their book to members at a discount, but we're not suggesting that they give it out for free, even though some will be kind enough to do so)
+Authors are able to have their book shared and discussed by a community. They can receive feedback about the book as well as see how their work has empowered people to better themselves and create new opportunities for their careers and the companies for which they work. Authors may choose to offer their book to members at a discount, but we're not expecting them to offer the book to members for free, even though some have been kind enough to do so.
 
 ### Businesses
 
