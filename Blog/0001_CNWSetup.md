@@ -2,7 +2,7 @@
 
 ### Inception
 
-Its a common start to a meetup story, it started in a bar after a couple of beers.
+It’s a common start to a meetup story, it started in a bar after a couple of beers.
 
 I ([@denhamparry](https://twitter.com/denhamparry)) attended NDC London at the start of the year (2018) and was booked in for a Kubernetes Workshop with [Ben Hall](https://twitter.com/ben_hall).  Speaking with Ben after the workshop I mentioned that I was trying to get into speaking at events and meetups, to which he said "Well, I don't think anyone has set up Cloud Native Wales...".
 
@@ -22,7 +22,11 @@ Meanwhile, Salman gave a lightning talk at DDD Wales in Swansea titled 'Can a ro
 
 He said that his friend James would be interested in giving a talk on a project that he was currently working on, Jenkins X.  We had found our second speaker!
 
-Until we met Steve, co-founder of DevOpsGuys (DOG) at a WinOps meetup in Bristol, a basement in a cafe in Cardiff was our venue. I also connected with Anthony Gallagher, Head of Recruitment at DOG. Anthony and I used to push trolleys together at Sainsbury's when we were 17! The folks at DOG offered to host us for a year. Thier offices are probably the most stunning offices in center of Cardiff. Don't believe us, check out the photos. Still don't beleive us, come and check it out at the next Cloud Native Wales meetup! Venue, speakers and attendees sorted!
+Until we met Steve, co-founder of DevOpsGuys (DOG) at a WinOps meetup in Bristol, a basement in a cafe in Cardiff was our venue. I also connected with Anthony Gallagher, Head of Recruitment at DOG. Anthony and I used to push trolleys together at Sainsbury's when we were 17! The folks at DOG offered to host us for a year. They also helped us create a kick-ass branding for CNW, thanks DOG design team! 
+
+![CNW Branding](img/0001_CNWSetup_Logo.png?raw=true "CNW Branding, thanks to DOG!")
+
+Their offices are probably the most stunning offices in centre of Cardiff. Don't believe us, check out the photos. Still don't believe us, come and check it out at the next Cloud Native Wales meetup! Venue, speakers and attendees sorted!
 
 [Aled](https://twitter.com/a_ll_james) joined us as a Co-Organiser of CNW. Aled is a researcher from Bristol University and is originally from Carmarthen, Wales.
 
@@ -30,6 +34,8 @@ Until we met Steve, co-founder of DevOpsGuys (DOG) at a WinOps meetup in Bristol
 
 The week before the meetup, Salman and I attended KubeCon in Copenhagen and promoted Cloud Native Wales. We met so many great people and were amazed by the generosity and time everyone offered to us.  We also managed to get two authors to confirm that they'd be happy working with us on a Book Club initiative that we're rolling out across Wales.  More information on that here.
 
-With the explosion of cloud native technologies, we created CNW as a way to bring together a community that would share ideas on how to use cloud native technolgies more effectively. We started the book club intiative to kickstart a more in-depth learning and understanding of these concepts and connect with the authors. Our hope is that through this community, the members would introduce newer technologies at workplaces, businesses and projects and imporve ourselves every single day. 
+With the explosion of cloud native technologies, we created CNW as a way to bring together a community that would share ideas on how to use cloud native technologies more effectively. We started the book club initiative to kickstart a more in-depth learning and understanding of these concepts and connect with the authors. Our hope is that through this community, the members would introduce newer technologies at workplaces, businesses and projects and improve ourselves every single day. 
 
 Watch out for the next blog to see how the first meetup went!
+
+![DOG Meetup Room](img/0001_CNWSetup_Room.jpeg?raw=true "Main Meetup Room") ![Views from the 6](img/0001_CNWSetup_ViewsFromThe6.jpeg?raw=true "Cardiff Castle Views") ![Millennium Stadium](img/0001_CNWSetup_ViewsMillennium.jpeg?raw=true "Millennium stadium as seen from DOG offices")
