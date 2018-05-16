@@ -35,9 +35,9 @@ The week before the meetup, Salman and I attended KubeCon in Copenhagen and prom
 
 With the explosion of cloud native technologies, we created CNW as a way to bring together a community that would share ideas on how to use cloud native technologies more effectively. We started the book club initiative to kickstart a more in-depth learning and understanding of these concepts and connect with the authors. Our hope is that through this community, the members would introduce newer technologies at workplaces, businesses and projects and improve ourselves every single day.
 
-![DOG Meetup Room](img/0001_CNWSetup_Room.jpeg?raw=true "Main Meetup Room") ![Views from the 6]
+![DOG Meetup Room](img/0001_CNWSetup_Room.jpeg?raw=true "Main Meetup Room") 
 *Main meetup area*
-(img/0001_CNWSetup_ViewsFromThe6.jpeg?raw=true "Cardiff Castle Views") ![Millennium Stadium]
+![Views from the 6](img/0001_CNWSetup_ViewsFromThe6.jpeg?raw=true "Cardiff Castle Views")
 *Cardiff Castle Views (from the 6)*
-(img/0001_CNWSetup_ViewsMillennium.jpeg?raw=true "Millennium stadium as seen from DOG offices")
+![Millennium Stadium](img/0001_CNWSetup_ViewsMillennium.jpeg?raw=true "Millennium stadium as seen from DOG offices")
 *Millennium stadium as seen from DOG offices*
