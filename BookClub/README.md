@@ -32,3 +32,9 @@ Authors are able to have their book shared and discussed by a community. They ca
 The Book Club helps to improve the skill and knowledge level within your organisation.
 
 ## Get Started
+
+---
+
+## Exert
+
+Cloud Native Wales' Book Club, where we connect with people around Wales to learn new technologies and concepts followed with a Q&A with the Author.
