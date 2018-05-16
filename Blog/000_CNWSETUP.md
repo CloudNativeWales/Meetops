@@ -20,7 +20,7 @@ We stepped up the search for speakers. On Cardiff Dev Slack 'Meetup' channel, I 
 
 Meanwhile, Salman gave a lightning talk at DDD Wales in Swansea titled 'Can a robot code my website'. It ended with a shameless plug about Cloud Native Wales. I was on a stag do in Manchester in the middle of go-kart Grand Prix and received a DM from one of the attendees saying that they were looking to set a similar Meetup.
 
-He said that his friend James would be interested in giving a talk on a project that he was currently working on, Jenkins X.  We had found our second speaker!
+He said that his friend [James Rawlings](https://twitter.com/jdrawlings) would be interested in giving a talk on a project that he was currently working on, Jenkins X.  We had found our second speaker!
 
 Until we met Steve, co-founder of DevOpsGuys (DOG) at a WinOps meetup in Bristol, a basement in a cafe in Cardiff was our venue. I also connected with Anthony Gallagher, Head of Recruitment at DOG. Anthony and I used to push trolleys together at Sainsbury's when we were 17! The folks at DOG offered to host us for a year. They also heloed us create a kick-ass CNW branding, thanks DOG design team! Their offices are probably the most stunning offices in center of Cardiff. Don't believe us, check out the photos. Still don't believe us, come and check it out at the next Cloud Native Wales meetup! Venue, speakers and attendees sorted!
 
