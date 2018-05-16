@@ -39,5 +39,5 @@ With the explosion of cloud native technologies, we created CNW as a way to brin
 *CNW Center Stage*
 ![Views from the 6](img/0001_CNWSetup_ViewsFromThe6.jpeg?raw=true "Cardiff Castle Views")
 *Cardiff Castle Views (from the 6)*
-![Millennium Stadium](img/0001_CNWSetup_ViewsMillennium.jpeg?raw=true "Millennium stadium as seen from DOG offices")
-*Millennium stadium as seen from DOG offices*
+![Principality Stadium](img/0001_CNWSetup_ViewsPrincipality.jpeg?raw=true "Principality stadium as seen from DOG offices")
+*Principality stadium as seen from DOG offices*
