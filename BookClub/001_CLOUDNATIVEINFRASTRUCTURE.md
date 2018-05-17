@@ -1,4 +1,4 @@
-# Cloud Native Infrastructure by [Kris Nova](https://twitter.com/krisnova) and [Justin Garrison](https://twitter.com/rothgar)
+# Cloud Native Infrastructure by Kris Nova & Justin Garrison
 
 ## What Is A CNW Book Club
 
@@ -34,7 +34,7 @@ Readers will learn what future patterns to look for to stay ahead of the curve, 
 
 ![Kris Nova](/content/images/2018/05/KrisNova.png)
 
-Kris Nova lives and breathes open source. She is transgender and is transparent about all things in her life. She believes in advocating for the best interest of the software and keeping the design process open and honest. She is a backend infrastructure engineer, with roots in Linux and C. She has a deep technical background in the Go programming language and has authored many successful tools in Go.
+[Kris Nova]((https://twitter.com/krisnova)) lives and breathes open source. She is transgender and is transparent about all things in her life. She believes in advocating for the best interest of the software and keeping the design process open and honest. She is a backend infrastructure engineer, with roots in Linux and C. She has a deep technical background in the Go programming language and has authored many successful tools in Go.
 
 She is a Kubernetes maintainer and the creator of kubicorn, a successful Kubernetes infrastructure management tool. She organizes a special interest group in Kubernetes and is a leader in the community. Kris understands the grievances with running cloud native infrastructure via a distributed cloud native application.
 
@@ -42,4 +42,4 @@ She is a Kubernetes maintainer and the creator of kubicorn, a successful Kuberne
 
 ![Justin Garrison](/content/images/2018/05/JustinGarrison.jpeg)
 
-Justin loves open source almost as much as he loves community. He is not a fan of buzz words but searches for the patterns and benefits behind technology trends. He frequently shares his findings and tries to disseminate knowledge through practical lessons and unique examples. He is an active member in many communities and constantly questions the status quo. He is relentless in trying to learn new things and giving back to the communities who have taught him so much.
+[Justin](https://twitter.com/rothgar) loves open source almost as much as he loves community. He is not a fan of buzz words but searches for the patterns and benefits behind technology trends. He frequently shares his findings and tries to disseminate knowledge through practical lessons and unique examples. He is an active member in many communities and constantly questions the status quo. He is relentless in trying to learn new things and giving back to the communities who have taught him so much.
