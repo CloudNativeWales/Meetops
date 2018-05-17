@@ -6,12 +6,14 @@ From our own personal experiences, we're beginning to see companies improve thei
 
 ## Why a Book Club
 
-All of the discussed books will be related to Cloud Native technologies. A Book Club has a number of benefits including:
+A book club is a group of people who meet to discuss a book or books that they have read and express their opinions, likes, dislikes, etc.  All of the discussed books will be related to Cloud Native technologies. 
 
-* It doesn't matter where the reader is based geographically
-* The reader doesn't need to configure any technology to read a book (beyond a PDF reader!)
-* Learning as a community makes it more likely the reader will complete the book
-* People can support each other to understand complex processes/concepts
+The CNW Book Club has a number of benefits including:
+
+* It doesn't matter where the reader is based geographically.
+* The reader doesn't need to configure any technology to read a book (beyond a PDF reader!).
+* Learning as a community makes it more likely the reader will complete the book.
+* People can support each other to understand complex processes/concepts.
 
 ## Connect with the Author
 
@@ -31,7 +33,15 @@ Authors are able to have their book shared and discussed by a community. They ca
 
 The Book Club helps to improve the skill and knowledge level within your organisation.
 
-## Get Started
+## How Do I Get Started
+
+Signup to one of our future book club events:
+
+* [Docker On Windows by Elton Stoneman](https://blog.cloudnativewales.io/bookclub/dockeronwindows)
+
+## Contact us
+
+Any questions, send a message to [bookclub@cloudnativewales.io](mailto:bookclub@cloudnativewales.io)
 
 ---
 
