@@ -14,7 +14,7 @@ You'll receive a free digital copy of the book, access to the discussion group a
 
 ## How Do I Sign Up
 
-**Spaces are limited**, so please book your space here (*link to be added tonight*).
+**Spaces are limited**, so please book your space [here](https://www.eventbrite.co.uk/e/cnw-book-club-docker-on-windows-by-elton-stoneman-tickets-46192256282).
 
 ---
 
