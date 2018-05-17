@@ -1,4 +1,4 @@
-# OUR FIRST MEETUP
+# 000_CNWSETUP.md
 
 ## Inception
 
@@ -25,6 +25,7 @@ He said that his friend [James Rawlings](https://twitter.com/jdrawlings) would b
 Until we met Steve, co-founder of DevOpsGuys (DOG) at a WinOps meetup in Bristol, a basement in a cafe in Cardiff was our venue. I also connected with Anthony Gallagher, Head of Recruitment at DOG. Anthony and I used to push trolleys together at Sainsbury's when we were 17! The folks at DOG offered to host us for a year. They also helped us create a kick-ass CNW branding, thanks DOG design team! Their offices are probably the most stunning offices in center of Cardiff. Don't believe us, check out the photos. Still don't believe us, come and check it out at the next Cloud Native Wales meetup! Venue, speakers and attendees sorted!
 
 ![CNW Branding](/content/images/2018/05/000_CNWSetup_Logo.png)
+*CNW Logo!!!*
 
 ![DOG Meetup Room](/content/images/2018/05/000_CNWSetup_Room.jpeg)
 *CNW Center Stage*
@@ -45,8 +46,11 @@ The week before the meetup, Salman and I attended KubeCon in Copenhagen and prom
 
 With the explosion of cloud native technologies, we created CNW as a way to bring together a community that would share ideas on how to use cloud native technologies more effectively. We started the book club initiative to kickstart a more in-depth learning and understanding of these concepts and connect with the authors. Our hope is that through this community, the members would introduce newer technologies at workplaces, businesses and projects and improve ourselves every single day.
 
-![KubeCon Copenhagen 2018 Keynote](/content/images/2018/05/000_CNWSETUO_KeyConKeyNote.jpg)
+![KubeCon Copenhagen 2018 Keynote](/content/images/2018/05/000_CNWSETUP_KeyConKeyNote.jpg)
 *Always sit at the front for a talk (or as close as you can get!)*
+
+![Salman and Lewis love Copenhagen](/content/images/2018/05/000_CNWSETUP_SALMANLEWIS-1.JPG)
+*Always sit at the front of the roller coaster*
 
 ## The Meetup
 

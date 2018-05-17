@@ -1,8 +1,11 @@
 # POST SETTINGS
 
 * Post Image
+  * ![Salman and Lewis love Copenhagen](/content/images/2018/05/000_CNWSETUP_SALMANLEWIS_SQUARE.JPG)
 * Post URL
+  * [blog.cloudnativewales.io/000_cnwsetup/](https://blog.cloudnativewales.io/000_cnwsetup/)
 * Publish Date
+  * 2018-05-17 08:30 GMT
 * Tags
   * setup
   * kubecon copenhagen 2018
