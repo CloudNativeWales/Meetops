@@ -52,6 +52,10 @@ With the explosion of cloud native technologies, we created CNW as a way to brin
 ![Salman and Lewis love Copenhagen](/content/images/2018/05/000_CNWSETUP_SALMANLEWIS-1.JPG)
 *Always sit at the front of the roller coaster*
 
+## The Talk Before The Meetup
+
+The day before our first meetup, I [gave a talk](https://www.youtube.com/watch?v=0u96zYdcUeE) at [Bristol Cloud Native](https://twitter.com/briscloudnative). The talk was based on announcements and talks from KubeCon. We mentioned CNW, and after the talk I started chatting to one of the attendees. He created a start up in his parents' garage in West Wales and, along with two former course mates, is now working in an incubator in Bristol. This was another positive indicator for CNW, having not only found that a significant number of people in Wales were interested in taking part in a Cloud Native meetup, but that there were businesses being founded with an interest/focus on Cloud Native technologies.
+
 ## The Meetup
 
 That's it for this post, our next post will be about our first meetup.
