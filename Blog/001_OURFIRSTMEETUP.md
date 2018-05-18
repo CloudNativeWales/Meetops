@@ -21,3 +21,5 @@
 ## CNW Slides
 
 * [Google Slides](https://docs.google.com/presentation/d/1xTFHjCyecWQ5QespLGLFNvidirN7YkbL3-A49o4gIck/edit?usp=sharing)
+
+## The Meetup
