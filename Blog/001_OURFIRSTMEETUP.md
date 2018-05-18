@@ -4,7 +4,7 @@
 
 ### Going cloud native with the internet of things
 
-#### Matthew MacDonald-Wallace
+#### [Matthew MacDonald Wallace](https://twitter.com/mbconsultinguk)
 
 * [PDF](https://www.dropbox.com/s/uons3fdfeq6pr4q/1.pdf?dl=0)
 
@@ -12,7 +12,8 @@
 
 ### Jenkins X
 
-#### James Rawlings
+#### [James Rawlings](https://twitter.com/jdrawlings)
+[Jenkins X](https://twitter.com/jenkinsxio) / [CloudBees](https://twitter.com/CloudBees)
 
 * [Keynote](https://www.dropbox.com/s/4wwumc9s8qevk8a/2.key?dl=0)
 * [PDF](https://www.dropbox.com/s/2l3yudybl8dx4j7/2.pdf?dl=0)
@@ -23,3 +24,46 @@
 * [Google Slides](https://docs.google.com/presentation/d/1xTFHjCyecWQ5QespLGLFNvidirN7YkbL3-A49o4gIck/edit?usp=sharing)
 
 ## The Meetup
+
+### The Venue
+
+We previously spoke about the venue in our previous post, [000_CNWSETUP](https://blog.cloudnativewales.io/000_cnwsetup/).  We were hoping for a blue sky day and that's what we got, and had amazing views across all of Cardiff.
+
+### The Attendees
+
+We officially counted 48 attendees (not including Speakers, CNW members and DevOpsGuys (DOG) staff).  It was great to see a community come together at the event, sharing their own stories and ideas as well as listening to our speakers share their talks.
+
+### The Speakers
+
+Our first speakers have set the bar high for future events.  The feedback received after the event about the quality of the content of the talks was amazing.  There was so much energy in the room that evening, and everyone took something away from the talks.
+
+#### Matthew MacDonald Wallace
+
+#### James Rawlings
+
+### The Gifts
+
+It takes a lot of effort for speakers to create talks with great content and then presenting them to a new crowd.  We're so grateful for this that we offer small gifts of thanks.  This time, we got Matthew a selection of [Crafty Devil](https://twitter.com/craftydevilbrew) beers (a local microbrewery in Cardiff) and James a t-shirt from a bar we met at in Copenhagen, [WarPigs](https://twitter.com/WarPigs_Brewpub).  They're small gifts in comparison to the amount of gratitude we have for them to take the time and effort to share their talks.
+
+### The Announcement
+
+We announced our [CNW Book Club](https://blog.cloudnativewales.io/bookclub/) initiative (more details can be found on the link).  The first two books were announced, [Docker on Windows by Elton Stoneman](https://blog.cloudnativewales.io/dockeronwindows/) and [Cloud Native Infrastructure by Kris Nova & Justin Garrison](https://blog.cloudnativewales.io/cloudnativeinfrastructure/).  We had a lot of positive feedback about this on the night and the days following.  Please feel free to share this to others around Wales who might be interested.
+
+### The Learning
+
+Even though we had a great evening, we made a couple of mistakes which we're hoping not to make again:
+
+* The sign in process into the DOG office took too long, and we're currently looking into solutions for that.
+* We forgot to ask for dietary requirements prior to ordering pizza, this has been resolved with a signoff process prior to the Meetup.
+* The displays wouldn't connect to my MacBook for the last lot of announcements.  A new AV system is being setup at DOG which will hopefully resolve this.
+* We filmed the event, but sadly ran out of storage so haven't film the entire talk.  We're looking to use a third party to film the event which we'll then share on online after the event.
+
+### The Next Meetup
+
+> Here's the link to the [Meetup](https://www.meetup.com/Cloud-Native-Wales/events/lxwbppyxjbsb/).
+
+The next Meetup is scheduled for Wednesday 20th June 2018 during the [Festival of Innovation](https://twitter.com/WFoInnovation) week, and we're very excited being a part of it.  The confirmed speakers are Basia Fusinska ([@basiafusinska](https://twitter.com/basiafusinska) from Google and Ben Hall ([@Ben_Hall](https://twitter.com/Ben_Hall)) from Katacoda.  We're really excited for their talks.
+
+### Until Then
+
+Why not learn something new on [Katacoda](https://katacoda.com/learn) and tell us all about it when we see you at the next Meetup!
