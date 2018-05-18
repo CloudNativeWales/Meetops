@@ -6,7 +6,8 @@
 
 ## Meetups
 
-* [0.1.0](/0.1.0/README.md)
+* [0.1.0](/Meetups/0.1.0.md)
+* [0.2.0](/Meetups/0.2.0.md)
 
 ## Blog
 
