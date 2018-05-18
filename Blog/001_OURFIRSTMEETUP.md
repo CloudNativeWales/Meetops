@@ -13,6 +13,17 @@ You think to yourself, actually, it is going to be a pretty awesome day! Start o
 
 Exciting times indeed.
 
+## Meetup Time!
+
+Meetup hosted at DevOpsGuys on 22nd floor opened doors at 6.30 pm. By this time, the main room was ready to recieve all the attendees and importantly the pizzas and drinks had been already laid out. As people arrived the room started to fill up. It was great to see people getting to know eachother who worked in different roles and came from different backgrounds. We could already start to see the power Cloud Native Technology has to bring people together in a room to share ideas and experiences. 
+
+<TODO>[ADD PHOTO OF PIZZAS]
+<TODO>[ADD PHOTO OF THE ROOM]
+<TODO>[ADD PHOTO OF THE ROOM FILLING UP WITH PEOPLE]
+
+## A Warm Welcome from Cloud Native Wales
+
+
 ## Speaker Slides
 
 ### Going cloud native with the internet of things
