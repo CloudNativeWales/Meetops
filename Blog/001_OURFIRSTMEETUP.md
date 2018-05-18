@@ -1,5 +1,18 @@
 # OUR FIRST MEETUP
 
+The date is 10th May 2018, you wake up in the morning, thinking it is going to be just like any other day. A yawn and a couple of stretches later it dawns on you that today is the day of the first ever Cloud Native Wales meetup! 
+
+The one, that [Lewis](https://twitter.com/denhamparry) and [Salman](https://twitter.com/soulmaniqbal) have been palnning for months. Mild panic sets in, to calm your nerves you the following thoughts go through your head: 
+
+- Two excellent speakers have been lined up
+- Thanks to the folks at DevOpsGuys the venue and food is all set and doesn't need to be worried about. 
+- People have signed up for the event on [Meetup](https://www.meetup.com/Cloud-Native-Wales/events/lxwbppyxhbnb/).
+- You have a few exciting announcemnets to make, [CNW Book Club](https://blog.cloudnativewales.io/bookclub/) being one of them.
+
+You think to yourself, actually, it is going to be a pretty awesome day! Start of a new community that you've been looking forward to build and be part of for the last few months!
+
+Exciting times indeed.
+
 ## Speaker Slides
 
 ### Going cloud native with the internet of things
