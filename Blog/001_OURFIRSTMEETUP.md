@@ -37,7 +37,7 @@ And with this, it was time to hand over the floor to CNW's first ever speaker, [
 
 Matt started with a simple question which really had people thinking. Can physical IoT devices be cloud native? He brought with him some devices (the "things" of "Internet of Things") to show the Meetup attendees: one with Bluetooth & WiFi connectivity, one with cellular (2G/3G), one WiFi only, and intriguingly, a device around the size of a thumb with 8 analogue and digital inputs and outputs, so information can be collected from eight different sensors using a tiny device and have the results broadcast over radio. Additionally, a [LoRaWAN](https://www.thethingsnetwork.org/docs/lorawan/) device was shown. Matt then discussed the use of Cloud Native techologies to aggregate and analyse the data captured by the 'things', along with a discussion of the devices' benefits and shortcomings.
 
-"We have to run the Internet of Things...whatever that means, in a Cloud Native environment...whatever that means, ideally using DevOps practices...whatever that means"
+> "We have to run the Internet of Things...whatever that means, in a Cloud Native environment...whatever that means, ideally using DevOps practices...whatever that means"
 
 * [PDF](https://www.dropbox.com/s/uons3fdfeq6pr4q/1.pdf?dl=0)
 
