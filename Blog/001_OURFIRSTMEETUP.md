@@ -35,6 +35,8 @@ And with this, it was time to hand over the floor to CNW's first ever speaker, [
 
 #### [Matthew MacDonald Wallace](https://twitter.com/mbconsultinguk)
 
+Matt started with a simple question which really had people thinking. Can physical IoT devices be cloud native? He brought with him some of these devices [Aled and L. can you add names of devices he brought] 
+
 * [PDF](https://www.dropbox.com/s/uons3fdfeq6pr4q/1.pdf?dl=0)
 
 ---
