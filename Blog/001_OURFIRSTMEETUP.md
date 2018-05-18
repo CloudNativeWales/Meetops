@@ -23,10 +23,15 @@ Meetup hosted at DevOpsGuys on 22nd floor opened doors at 6.30 pm. By this time,
 
 ## A Warm Welcome from Cloud Native Wales
 
+The proceedings of the day kicked-off with Lewis and Salman extending a warm welcome to all the new members of Cloud Native Wales community. Lewis explained the purpose of the group, code of conduct, introduced the team and invited everyone to be a part of Cloud Native Wales as attendees, speakers, helpers and organisers. He stressed that Cloud Native Wales is a community open to everyone, no matter what ability, background, views and preferences. A community where people can learn and imporve themselves in cloud native technology and help others around them to grow as individuals. 
 
-## Speaker Slides
+The presentation can be found [here](https://docs.google.com/presentation/u/1/d/1xTFHjCyecWQ5QespLGLFNvidirN7YkbL3-A49o4gIck/edit?usp=sharing). Fun fact: Lewis completed this presentation before the meetup, sitting on bike rack, next to a toilet on a tran from Bristol to Cardiff!
 
-### Going cloud native with the internet of things
+<TODO>[ADD A PHOTO OF LEWIS SITTING ON TOILET RACK] 
+
+And with this, it was time to hand over the floor to CNW's first ever speaker, [Matthew MacDonald Wallace](https://twitter.com/mbconsultinguk) 
+
+### Going Cloud Native with Internet of Things
 
 #### [Matthew MacDonald Wallace](https://twitter.com/mbconsultinguk)
 
