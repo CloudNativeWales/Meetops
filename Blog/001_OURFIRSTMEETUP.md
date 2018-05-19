@@ -17,17 +17,21 @@ Exciting times indeed.
 
 Meetup hosted at DevOpsGuys on 22nd floor opened doors at 6.30 pm. By this time, the main room was ready to receive all the attendees and importantly the pizzas and drinks had been already laid out. As people arrived the room started to fill up. It was great to see people getting to know each other who worked in different roles and came from different backgrounds. We could already start to see the power Cloud Native Technology has to bring people together in a room to share ideas and experiences. 
 
-<TODO>[ADD PHOTO OF PIZZAS]
-<TODO>[ADD PHOTO OF THE ROOM]
-<TODO>[ADD PHOTO OF THE ROOM FILLING UP WITH PEOPLE]
+![Pizza](/content/images/2018/05/001_FIRSTMEETUP_PIZZA.jpg)
+*Pizzas!*
+
+
+![Room](/content/images/2018/05/001_FIRSTMEETUP_PEOPLEFILLINGIN.jpg)
+*CNW members arriving for first meetup*
 
 ## A Warm Welcome from Cloud Native Wales
 
-The proceedings of the day kicked-off with Lewis and Salman extending a warm welcome to all the new members of Cloud Native Wales community. Lewis explained the purpose of the group, code of conduct, introduced the team and invited everyone to be a part of Cloud Native Wales as attendees, speakers, helpers and organisers. He stressed that Cloud Native Wales is a community open to everyone, no matter what ability, background, views and preferences. A community where people can learn and imporve themselves in cloud native technology and help others around them to grow as individuals. 
+The proceedings of the day kicked-off with Lewis and Salman extending a warm welcome to all the new members of Cloud Native Wales community. Lewis explained the purpose of the group, code of conduct, introduced the team and invited everyone to be a part of Cloud Native Wales as attendees, speakers, helpers and organisers. He stressed that Cloud Native Wales is a community open to everyone, no matter what ability, background, views and preferences. A community where people can learn and improve themselves in cloud native technology and help others around them to grow as individuals. 
 
-The presentation can be found [here](https://docs.google.com/presentation/u/1/d/1xTFHjCyecWQ5QespLGLFNvidirN7YkbL3-A49o4gIck/edit?usp=sharing). Fun fact: Lewis completed this presentation before the meetup, sitting on bike rack, next to a toilet on a tran from Bristol to Cardiff!
+The presentation can be found [here](https://docs.google.com/presentation/u/1/d/1xTFHjCyecWQ5QespLGLFNvidirN7YkbL3-A49o4gIck/edit?usp=sharing). Fun fact: Lewis completed this presentation before the meetup, sitting on bike rack, next to a toilet on a train from Bristol to Cardiff!
 
-<TODO>[ADD A PHOTO OF LEWIS SITTING ON TOILET RACK] 
+![Lewis](/content/images/2018/05/001_FIRSTMEETUP_TRAIN.jpeg)
+*Lewis with his last minute editing of SNW slides* 
 
 And with this, it was time to hand over the floor to CNW's first ever speaker, [Matthew MacDonald Wallace](https://twitter.com/mbconsultinguk) 
 
@@ -35,7 +39,12 @@ And with this, it was time to hand over the floor to CNW's first ever speaker, [
 
 #### [Matthew MacDonald Wallace](https://twitter.com/mbconsultinguk)
 
-Matt started with a simple question which really had people thinking. Can physical IoT devices be cloud native? He brought with him some devices (the "things" of "Internet of Things") to show the Meetup attendees: one with Bluetooth & WiFi connectivity, one with cellular (2G/3G), one WiFi only, and intriguingly, a device around the size of a thumb with 8 analogue and digital inputs and outputs, so information can be collected from eight different sensors using a tiny device and have the results broadcast over radio. Additionally, a [LoRaWAN](https://www.thethingsnetwork.org/docs/lorawan/) device was shown. Matt then discussed the use of Cloud Native technologies to aggregate and analyse the data captured by the 'things', along with a discussion of the devices' benefits and shortcomings.
+Matt started with a simple question which really had people thinking. Can physical IoT devices be cloud native? He brought with him some devices (the "things" of "Internet of Things") to show the Meetup attendees: one with Bluetooth & WiFi connectivity, one with cellular (2G/3G), one WiFi only, and intriguingly, a device around the size of a thumb with 8 analogue and digital inputs and outputs, so information can be collected from eight different sensors using a tiny device and have the results broadcast over radio. 
+
+![MatthewMcDonald](/content/images/2018/05/001_MATTHEWMACDONALDWALLACE.jpg)
+*Matthew with the first ever CNW talk!*
+
+Additionally, a [LoRaWAN](https://www.thethingsnetwork.org/docs/lorawan/) device was shown. Matt then discussed the use of Cloud Native technologies to aggregate and analyse the data captured by the 'things', along with a discussion of the devices' benefits and shortcomings.
 
 > "We have to run the Internet of Things...whatever that means, in a Cloud Native environment...whatever that means, ideally using DevOps practices...whatever that means"
 
@@ -51,6 +60,9 @@ Matt started with a simple question which really had people thinking. Can physic
 There were a number of announcements in KubeCon EU 2018. One announcement which we felt had the most buzz about was Jenkins X! Jenkins X is a CI/CD solution for modern cloud applications on Kubernetes. James is one of the main contributors to the Jenkins X open source project and he delighted the audience with his talk Jenkins X and its integration with Kubernetes.
 
 James started with a brief introduction into what Kubernetes is, its benefits and how it helps with container orchestration. He explained that due to Kubernetes' overwhelming popularity, it is used as a tool of choice with Jenkins X. Jenkins X tries to solve the challenges of getting started with Kubernetes, deploying applications, migrating application to the cloud and how applications can be accessed amongst other things. 
+
+![JamesRawlings](/content/images/2018/05/001_FIRSTMEETUP_JAMES.jpeg)
+*James & Jenkins X!*
 
 In a series of live demos, James showed how easy it was to setup Kubernetes and deploy your application in public cloud using the Jenkins X command line tool, 'jx'. He also showed how Jenkins X creates a preview environment to test your application when a pull request is created. This really showed how Jenkins X is embracing the GitOps methodology. A lot of people were excited to give Jenkins X a try as it simplifies usage of Kubernetes!
 
@@ -77,11 +89,7 @@ We officially counted 48 attendees (not including Speakers, CNW members and DevO
 
 ### The Speakers
 
-Our first speakers have set the bar high for future events.  The feedback received after the event about the quality of the content of the talks was amazing.  There was so much energy in the room that evening, and everyone took something away from the talks.
-
-#### Matthew MacDonald Wallace
-
-#### James Rawlings
+Our first speakers have set the bar high for future events.  The feedback received after the event about the quality of the content of the talks was amazing.  There was so much energy in the room that evening, and everyone took something away from the talks. Thank you very much to our first speakers Matthew and James! 
 
 ### The Gifts
 
