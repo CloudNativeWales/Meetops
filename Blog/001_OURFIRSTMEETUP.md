@@ -51,7 +51,9 @@ Matt started with a simple question which really had people thinking. Can physic
 There were a number of announcements in KubeCon EU 2018. One announcement which we felt had the most buzz about was Jenkins X! Jenkins X is a CI/CD solution for modern cloud applications on Kubernetes. James is one of the main contributors to the Jenkins X open source project and he delighted the audience with his talk Jenkins X and its integration with Kubernetes.
 
 James started with a brief introduction into what Kubernetes is, its benefits and how it helps with container orchestration. He explained that due to Kubernetes' overwhelming popularity, it is used as a tool of choice with Jenkins X. Jenkins X tries to solve the challenges of getting started with Kubernetes, deploying applications, migrating application to the cloud and how applications can be accessed amongst other things. 
-  
+
+In a series of live demos, James showed how easy it was to setup Kubernetes and deploy your application in public cloud using the Jenkins X command line tool, 'jx'. He also showed how Jenkins X creates a preview environment to test your application when a pull request is created. This really showed how Jenkins X is embracing the GitOps methodology. A lot of people were excited to give Jenkins X a try as it simplifies usage of Kubernetes!
+
 
 * [Keynote](https://www.dropbox.com/s/4wwumc9s8qevk8a/2.key?dl=0)
 * [PDF](https://www.dropbox.com/s/2l3yudybl8dx4j7/2.pdf?dl=0)
