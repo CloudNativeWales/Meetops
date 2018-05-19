@@ -31,7 +31,7 @@ The proceedings of the day kicked-off with Lewis and Salman extending a warm wel
 The presentation can be found [here](https://docs.google.com/presentation/u/1/d/1xTFHjCyecWQ5QespLGLFNvidirN7YkbL3-A49o4gIck/edit?usp=sharing). Fun fact: Lewis completed this presentation before the meetup, sitting on bike rack, next to a toilet on a train from Bristol to Cardiff!
 
 ![Lewis](/content/images/2018/05/001_FIRSTMEETUP_TRAIN.jpeg)
-*Lewis with his last minute editing of SNW slides* 
+*Lewis with his last minute editing of CNW slides* 
 
 And with this, it was time to hand over the floor to CNW's first ever speaker, [Matthew MacDonald Wallace](https://twitter.com/mbconsultinguk) 
 
