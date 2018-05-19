@@ -54,10 +54,12 @@ James started with a brief introduction into what Kubernetes is, its benefits an
 
 In a series of live demos, James showed how easy it was to setup Kubernetes and deploy your application in public cloud using the Jenkins X command line tool, 'jx'. He also showed how Jenkins X creates a preview environment to test your application when a pull request is created. This really showed how Jenkins X is embracing the GitOps methodology. A lot of people were excited to give Jenkins X a try as it simplifies usage of Kubernetes!
 
+Head [here](https://jenkins-x.io/) to find out more about Jenkins X. If you would like to be a part of this awesome project check out the community website [here](https://jenkins-x.io/community/).
 
 * [Keynote](https://www.dropbox.com/s/4wwumc9s8qevk8a/2.key?dl=0)
 * [PDF](https://www.dropbox.com/s/2l3yudybl8dx4j7/2.pdf?dl=0)
-* [YouTube](https://youtu.be/ZIK0BSimOBM)
+* [Jenkins X demo by James Rawlings](https://youtu.be/ZIK0BSimOBM)
+* [Jenkins X talk @ KubeCon by James Strachan](https://www.youtube.com/watch?v=uHe7R_iZSLU)
 
 ## CNW Slides
 
