@@ -2,12 +2,12 @@
 
 The date is 10th May 2018, you wake up in the morning, thinking it is going to be just like any other day. A yawn and a couple of stretches later it dawns on you that today is the day of the first ever Cloud Native Wales meetup! 
 
-The one, that [Lewis](https://twitter.com/denhamparry) and [Salman](https://twitter.com/soulmaniqbal) have been palnning for months. Mild panic sets in, to calm your nerves you the following thoughts go through your head: 
+The one, that [Lewis](https://twitter.com/denhamparry) and [Salman](https://twitter.com/soulmaniqbal) have been planning for months. Mild panic sets in, to calm your nerves you the following thoughts go through your head: 
 
 - Two excellent speakers have been lined up
 - Thanks to the folks at DevOpsGuys the venue and food is all set and doesn't need to be worried about. 
 - People have signed up for the event on [Meetup](https://www.meetup.com/Cloud-Native-Wales/events/lxwbppyxhbnb/).
-- You have a few exciting announcemnets to make, [CNW Book Club](https://blog.cloudnativewales.io/bookclub/) being one of them.
+- You have a few exciting announcements to make, [CNW Book Club](https://blog.cloudnativewales.io/bookclub/) being one of them.
 
 You think to yourself, actually, it is going to be a pretty awesome day! Start of a new community that you've been looking forward to build and be part of for the last few months!
 
@@ -15,7 +15,7 @@ Exciting times indeed.
 
 ## Meetup Time!
 
-Meetup hosted at DevOpsGuys on 22nd floor opened doors at 6.30 pm. By this time, the main room was ready to recieve all the attendees and importantly the pizzas and drinks had been already laid out. As people arrived the room started to fill up. It was great to see people getting to know eachother who worked in different roles and came from different backgrounds. We could already start to see the power Cloud Native Technology has to bring people together in a room to share ideas and experiences. 
+Meetup hosted at DevOpsGuys on 22nd floor opened doors at 6.30 pm. By this time, the main room was ready to receive all the attendees and importantly the pizzas and drinks had been already laid out. As people arrived the room started to fill up. It was great to see people getting to know each other who worked in different roles and came from different backgrounds. We could already start to see the power Cloud Native Technology has to bring people together in a room to share ideas and experiences. 
 
 <TODO>[ADD PHOTO OF PIZZAS]
 <TODO>[ADD PHOTO OF THE ROOM]
@@ -35,7 +35,7 @@ And with this, it was time to hand over the floor to CNW's first ever speaker, [
 
 #### [Matthew MacDonald Wallace](https://twitter.com/mbconsultinguk)
 
-Matt started with a simple question which really had people thinking. Can physical IoT devices be cloud native? He brought with him some devices (the "things" of "Internet of Things") to show the Meetup attendees: one with Bluetooth & WiFi connectivity, one with cellular (2G/3G), one WiFi only, and intriguingly, a device around the size of a thumb with 8 analogue and digital inputs and outputs, so information can be collected from eight different sensors using a tiny device and have the results broadcast over radio. Additionally, a [LoRaWAN](https://www.thethingsnetwork.org/docs/lorawan/) device was shown. Matt then discussed the use of Cloud Native techologies to aggregate and analyse the data captured by the 'things', along with a discussion of the devices' benefits and shortcomings.
+Matt started with a simple question which really had people thinking. Can physical IoT devices be cloud native? He brought with him some devices (the "things" of "Internet of Things") to show the Meetup attendees: one with Bluetooth & WiFi connectivity, one with cellular (2G/3G), one WiFi only, and intriguingly, a device around the size of a thumb with 8 analogue and digital inputs and outputs, so information can be collected from eight different sensors using a tiny device and have the results broadcast over radio. Additionally, a [LoRaWAN](https://www.thethingsnetwork.org/docs/lorawan/) device was shown. Matt then discussed the use of Cloud Native technologies to aggregate and analyse the data captured by the 'things', along with a discussion of the devices' benefits and shortcomings.
 
 > "We have to run the Internet of Things...whatever that means, in a Cloud Native environment...whatever that means, ideally using DevOps practices...whatever that means"
 
@@ -48,7 +48,10 @@ Matt started with a simple question which really had people thinking. Can physic
 #### [James Rawlings](https://twitter.com/jdrawlings)
 [Jenkins X](https://twitter.com/jenkinsxio) / [CloudBees](https://twitter.com/CloudBees)
 
-There were a number of announcements in KubeCon EU 2018. One announcement which we felt had the most buzz about was Jenkins X! Jenkins X is a CI/CD solution for modern cloud applications on Kubernets. James is one of the main contributors to the Jenkins X open source project and he delighted the audience with his talk Jenkins X and its integration with Kubernetes.
+There were a number of announcements in KubeCon EU 2018. One announcement which we felt had the most buzz about was Jenkins X! Jenkins X is a CI/CD solution for modern cloud applications on Kubernetes. James is one of the main contributors to the Jenkins X open source project and he delighted the audience with his talk Jenkins X and its integration with Kubernetes.
+
+James started with a brief introduction into what Kubernetes is, its benefits and how it helps with container orchestration. He explained that due to Kubernetes' overwhelming popularity, it is used as a tool of choice with Jenkins X. Jenkins X tries to solve the challenges of getting started with Kubernetes, deploying applications, migrating application to the cloud and how applications can be accessed amongst other things. 
+  
 
 * [Keynote](https://www.dropbox.com/s/4wwumc9s8qevk8a/2.key?dl=0)
 * [PDF](https://www.dropbox.com/s/2l3yudybl8dx4j7/2.pdf?dl=0)
@@ -62,7 +65,7 @@ There were a number of announcements in KubeCon EU 2018. One announcement which 
 
 ### The Venue
 
-We previously spoke about the venue in our previous post, [000_CNWSETUP](https://blog.cloudnativewales.io/000_cnwsetup/).  We were hoping for a blue sky day and that's what we got, and had amazing views across all of Cardiff.
+We previously spoke about the venue in our previous post, [000_CNWSETUP](https://blog.cloudnativewales.io/000_cnwsetup/). We were hoping for a blue sky day and that's what we got, and had amazing views across all of Cardiff.
 
 ### The Attendees
 
