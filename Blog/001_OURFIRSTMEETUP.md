@@ -48,6 +48,8 @@ Matt started with a simple question which really had people thinking. Can physic
 #### [James Rawlings](https://twitter.com/jdrawlings)
 [Jenkins X](https://twitter.com/jenkinsxio) / [CloudBees](https://twitter.com/CloudBees)
 
+There were a number of announcements in KubeCon EU 2018. One announcement which we felt had the most buzz about was Jenkins X! Jenkins X is a CI/CD solution for modern cloud applications on Kubernets. James is one of the main contributors to the Jenkins X open source project and he delighted the audience with his talk Jenkins X and its integration with Kubernetes.
+
 * [Keynote](https://www.dropbox.com/s/4wwumc9s8qevk8a/2.key?dl=0)
 * [PDF](https://www.dropbox.com/s/2l3yudybl8dx4j7/2.pdf?dl=0)
 * [YouTube](https://youtu.be/ZIK0BSimOBM)
