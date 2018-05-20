@@ -112,7 +112,7 @@ Even though we had a great evening, we made a couple of mistakes which we're hop
 
 > Here's the link to the [Meetup](https://www.meetup.com/Cloud-Native-Wales/events/lxwbppyxjbsb/).
 
-The next Meetup is scheduled for Wednesday 20th June 2018 during the [Festival of Innovation](https://twitter.com/WFoInnovation) week, and we're very excited being a part of it.  The confirmed speakers are Basia Fusinska ([@basiafusinska](https://twitter.com/basiafusinska) from Google and Ben Hall ([@Ben_Hall](https://twitter.com/Ben_Hall)) from Katacoda.  We're really excited for their talks.
+The next Meetup is scheduled for Wednesday 20th June 2018 during the [Festival of Innovation](https://twitter.com/WFoInnovation) week, and we're very excited being a part of it.  The confirmed speakers are Basia Fusinska ([@basiafusinska](https://twitter.com/basiafusinska)) from Google and Ben Hall ([@Ben_Hall](https://twitter.com/Ben_Hall)) from Katacoda.  We're really excited for their talks.
 
 ### Until Then
 
