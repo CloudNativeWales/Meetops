@@ -83,9 +83,24 @@ Head [here](https://jenkins-x.io/) to find out more about Jenkins X. If you woul
 
 We previously spoke about the venue in our previous post, [000_CNWSETUP](https://blog.cloudnativewales.io/000_cnwsetup/). We were hoping for a blue sky day and that's what we got, and had amazing views across all of Cardiff.
 
+![001_VIEW00](/content/images/2018/05/001_VIEW00.jpg)
+*Cardiff Castle*
+
+![001_VIEW01](/content/images/2018/05/001_VIEW01.jpg)
+*View towards Cardiff Bay / Penarth*
+
+![001_VIEW02](/content/images/2018/05/001_VIEW02.jpg)
+*View towards Newport*
+
 ### The Attendees
 
 We officially counted 48 attendees (not including Speakers, CNW members and DevOpsGuys (DOG) staff).  It was great to see a community come together at the event, sharing their own stories and ideas as well as listening to our speakers share their talks.
+
+![001_ROOMVIEW01](/content/images/2018/05/001_ROOMVIEW01.jpg)
+
+![001_ROOMVIEW02](/content/images/2018/05/001_ROOMVIEW02.jpg)
+
+![001_ROOMVIEW00](/content/images/2018/05/001_ROOMVIEW00.jpg)
 
 ### The Speakers
 
