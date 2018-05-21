@@ -114,6 +114,9 @@ It takes a lot of effort for speakers to create talks with great content and the
 
 We announced our [CNW Book Club](https://blog.cloudnativewales.io/bookclub/) initiative (more details can be found on the link).  The first two books were announced, [Docker on Windows by Elton Stoneman](https://blog.cloudnativewales.io/dockeronwindows/) and [Cloud Native Infrastructure by Kris Nova & Justin Garrison](https://blog.cloudnativewales.io/cloudnativeinfrastructure/).  We had a lot of positive feedback about this on the night and the days following.  Please feel free to share this to others around Wales who might be interested.
 
+![001_BOOKCLUB00](/content/images/2018/05/001_BOOKCLUB00.jpg)
+*Announcement time *
+
 ### The Learning
 
 Even though we had a great evening, we made a couple of mistakes which we're hoping not to make again:
@@ -122,6 +125,12 @@ Even though we had a great evening, we made a couple of mistakes which we're hop
 - We forgot to ask for dietary requirements prior to ordering pizza, this has been resolved with a signoff process prior to the Meetup.
 - The displays wouldn't connect to my MacBook for the last lot of announcements.  A new AV system is being setup at DOG which will hopefully resolve this.
 - We filmed the event, but sadly ran out of storage so haven't film the entire talk.  We're looking to use a third party to film the event which we'll then share on online after the event.
+
+## The Pub
+
+We ran a Twitter poll and Tiny Rebel won, so we finished and went to the pub.
+
+![At the pub](/content/images/2018/05/001_PUB-1.jpg)
 
 ### The Next Meetup
 
@@ -132,3 +141,4 @@ The next Meetup is scheduled for Wednesday 20th June 2018 during the [Festival o
 ### Until Then
 
 Why not learn something new on [Katacoda](https://katacoda.com/learn) and tell us all about it when we see you at the next Meetup!
+
