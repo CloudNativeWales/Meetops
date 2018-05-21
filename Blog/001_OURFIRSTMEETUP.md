@@ -20,8 +20,7 @@ Meetup hosted at DevOpsGuys on 22nd floor opened doors at 6.00 pm. By this time,
 ![Pizza](/content/images/2018/05/001_FIRSTMEETUP_PIZZA.jpg)
 *Pizzas!*
 
-
-![Room](/content/images/2018/05/001_FIRSTMEETUP_PEOPLEFILLINGIN.jpg)
+![Room](/content/images/2018/05/001_FIRSTMEETUP_PEOPLEFILLINGIN.JPG)
 *CNW members arriving for first meetup*
 
 ## A Warm Welcome from Cloud Native Wales (CNW)
