@@ -1,5 +1,9 @@
 # Cloud Native Wales Meetups
 
+## Builds
+
+[![CircleCI](https://circleci.com/gh/CloudNativeWales/Meetups/tree/master.svg?style=svg)](https://circleci.com/gh/CloudNativeWales/Meetups/tree/master)
+
 ## Information
 
 * [Code of Conduct](CODEOFCONDUCT.md)
