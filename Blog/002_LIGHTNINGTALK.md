@@ -1,4 +1,4 @@
-# Lightning Talk
+# Lightning Talk: Book Club
 
 Lewis (https://twitter.com/denhamparry) presented a lightning talk at [Swansea Software Development Meetup (SSDM)](https://www.meetup.com/Swansea-Software-Development-Meetup/events/250343517/)  about the new Cloud Native Wales (CNW) Book Club initiative.
 
