@@ -40,7 +40,7 @@ Please contact us at [bookclub@cloudnativewales.io](mailto:bookclub@cloudnativew
 
 ## Sponsors
 
-Our core value is to provide great content, remain agnostic and not sell out.  The talks should be focused on content and allow the attendees to make a decision into if they want to use a product.  We do not market to attendees and pass personal contact information to companies.  We encourage attendees to speak to sponsors but its at their own free will.  If you agree with these principles we would gladly accept your sponsorship.
+Our core value is to provide great content, remain agnostic and not sell out.  The talks should be focused on content and allow the attendees to make an informed decision into if they want to use a technology/product.  We do not market to attendees and pass personal contact information to companies.  We encourage attendees to speak to sponsors but its at their own free will.  If you agree with these principles we would gladly accept your sponsorship.
 
 ### Venue / Food / Drink - DevOpsGuys
 
