@@ -1,13 +1,13 @@
 # SINCE KUBECON
 
-We're sending out emails to people we've met in KubeCon.
+We're sending out tweets and emails to people we've met in KubeCon.
 
-We try to make our emails personal, but there is some content cross-over.
+Being personal is a core value for us, but there is some content cross-over.
 Rather than send you several links, we thought we could host a blog post instead to direct you around.
 
 ## Cloud Native Wales (CNW)
 
-Lewis Denham-Parry (https://twitter.com/denhamparry) and Salman Iqbal (https://twitter.com/soulmaniqbal) are co-founders of Cloud Native Wales, they created it after someone mentioned there were no Cloud Native groups in Wales and woke up the next morning with a lot of work to do.
+[Lewis Denham-Parry](https://twitter.com/denhamparry) and [Salman Iqbal](https://twitter.com/soulmaniqbal) are co-founders of Cloud Native Wales, they created it after someone mentioned there were no Cloud Native groups in Wales and woke up the next morning with a lot of work to do.
 
 If you are interested in how we got up and running with our first meetup in 3 months then please look at our [000_CNWSETUP](https://blog.cloudnativewales.io/000_cnwsetup/) blog post.
 
@@ -23,6 +23,20 @@ Our first 2 books are:
 
 * [Docker on Windows by Elton Stoneman](https://blog.cloudnativewales.io/dockeronwindows/)
 * [Cloud Native Infrastructure by Justin Garrison and Kris Nova](https://blog.cloudnativewales.io/cloudnativeinfrastructure/)
+
+### Call for Authors (CfA)
+
+Tired of submitting another CfP?  Why not try submitting your book instead.
+A book club lasts 3 months and we aim to have (at max) 30 people read your book.
+
+The book club starts in the following months:
+
+* March
+* June
+* September
+* December
+
+Please contact us at [bookclub@cloudnativewales.io](mailto:bookclub@cloudnativewales.io) for more information.
 
 ## Sponsors
 
