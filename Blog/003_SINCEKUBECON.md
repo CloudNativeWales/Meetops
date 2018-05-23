@@ -11,7 +11,15 @@ Rather than send you several links, we thought we could host a blog post instead
 
 If you are interested in how we got up and running with our first meetup in 3 months then please look at our [000_CNWSETUP](https://blog.cloudnativewales.io/000_cnwsetup/) blog post.
 
+## Meetups
+
 Our first meetup went really well, the first speaker talked about Cloud Native with IoT and our second speaker talked about Jenkins X.  More information on that can be found on this [001_OURFIRSTMEETUP](https://blog.cloudnativewales.io/001_ourfirstmeetup/) blog post.
+
+We are planning on having at least one local speaker and one 'out of town' speaker for our meetups.  We hope that this increases the number of speakers in Wales and help with the adoption towards Cloud Native technologies.  The out of town speakers are industry leaders who can give us some insight into their personal experiences.
+
+### Future Meetups
+
+If you are a speaker, or looking to get into speaking, then please contact us so that we can arrange an opportunity for you to share your talk at [speakers@cloudnativewales.io](mailto:speakers@cloudnativewales.io) or tweet us at [CloudNativeWal](https://twitter.com/cloudnativewal).
 
 ## Book Club
 
@@ -36,7 +44,7 @@ The book club starts in the following months:
 * September
 * December
 
-Please contact us at [bookclub@cloudnativewales.io](mailto:bookclub@cloudnativewales.io) for more information.
+Please contact us at [bookclub@cloudnativewales.io](mailto:bookclub@cloudnativewales.io) or tweet us at [CloudNativeWal](https://twitter.com/cloudnativewal) for more information.
 
 ## Sponsors
 
