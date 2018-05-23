@@ -1,9 +1,12 @@
 # SINCE KUBECON
-
 We're sending out tweets and emails to people we've met in KubeCon.
 
 Being personal is a core value for us, but there is some content cross-over.
 Rather than send you several links, we thought we could host a blog post instead to direct you around.
+
+Here's a clip of what we got up to at KubeCon:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When <a href="https://twitter.com/SoulmanIqbal?ref_src=twsrc%5Etfw">@SoulmanIqbal</a> &amp; <a href="https://twitter.com/denhamparry?ref_src=twsrc%5Etfw">@denhamparry</a> went to <a href="https://twitter.com/CloudNativeFdn?ref_src=twsrc%5Etfw">@CloudNativeFdn</a> <a href="https://twitter.com/hashtag/KubeCon?src=hash&amp;ref_src=twsrc%5Etfw">#KubeCon</a> <a href="https://twitter.com/hashtag/CloudNativeCon?src=hash&amp;ref_src=twsrc%5Etfw">#CloudNativeCon</a>! Sound On, make it loud 🔊 <a href="https://twitter.com/hashtag/Copenhagen?src=hash&amp;ref_src=twsrc%5Etfw">#Copenhagen</a> <a href="https://t.co/DqdNcSSklU">pic.twitter.com/DqdNcSSklU</a></p>&mdash; Cloud Native Wales (@CloudNativeWal) <a href="https://twitter.com/CloudNativeWal/status/998520371556110336?ref_src=twsrc%5Etfw">May 21, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ## Cloud Native Wales (CNW)
 
