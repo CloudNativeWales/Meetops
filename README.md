@@ -11,6 +11,10 @@
 ## Meetups
 
 * [0.1.0](/Meetups/0.1.0.md)
+* [0.1.1](/Meetups/0.1.1.md)
+* [0.1.2](/Meetups/0.1.2.md)
+* [0.1.3](/Meetups/0.1.3.md)
+
 * [0.2.0](/Meetups/0.2.0.md)
 
 ## Blog

@@ -10,7 +10,7 @@ The Book Club will start on Friday June 15th 2018.  You'll be committed to readi
 
 ## What Do I Get
 
-You can download a free ebook from the book's official [website](https://www.cnibook.info/). If you would like a paperback copy, you can buy one from one of the retailers provided [here](https://www.cnibook.info/). Thanks to Kris and [Heptio](https://twitter.com/heptio), we will be giving away some copies of the book at CNW's [Meetup v0.2.0](https://www.meetup.com/Cloud-Native-Wales/events/lxwbppyxjbsb/). Details to be confirmed soon.
+The book's official [website](https://www.cnibook.info/) provides information on where the book can be purchased. If you'd like a PDF version, this can be downloaded (for free) from the Heptio [website](http://go.heptio.com/cloud-native-infrastructure). If you would like a paperback copy, you can buy one from one of the retailers provided [here](https://www.cnibook.info/). Thanks to [Kris](https://twitter.com/krisnova) and [Heptio](https://twitter.com/heptio), we will be giving away some physical copies of the book at CNW's [Meetup v0.2.0](https://www.meetup.com/Cloud-Native-Wales/events/lxwbppyxjbsb/). Details to be confirmed soon.
 
 ## How Do I Sign Up
 
