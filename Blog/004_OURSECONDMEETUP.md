@@ -10,7 +10,11 @@ Then it was time for the first talk!
 
 #### [Basia Fusinska](https://twitter.com/@basiafusinska)
 
+<<<<<<< HEAD
 Basia works at Google in London as a Strategic Cloud Engineer and has a strong background in both software development and Machine Learning algorithms. She opened her talk by asking the audience for suggestions on how to define Machine Learning. Demonstrations were given of Jupyter notebooks, and then Kubeflow.
+=======
+Basia works at Google in London as a Strategic Cloud Engineer and has a strong background in both software development and Machine Learning algorithms. She opened her talk by asking the audience for suggestions on how to define Machine Learning. Jupyter notebooks, and then Kubeflow.
+>>>>>>> 94a3d9dcf1c495c300baf904f6407e881d3b8b81
 
 ### Talk: Running Kubernetes without Docker using CRI
 
