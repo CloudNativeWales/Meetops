@@ -10,7 +10,11 @@ Then it was time for the first talk!
 
 #### [Basia Fusinska](https://twitter.com/@basiafusinska)
 
+<<<<<<< HEAD
+Basia works at Google in London as a Strategic Cloud Engineer and has a strong background in both software development and Machine Learning algorithms. She opened her talk by asking the audience for suggestions on how to define Machine Learning. Demonstrations were given of Jupyter notebooks, and then Kubeflow.
+=======
 Basia works at Google in London as a Strategic Cloud Engineer and has a strong background in both software development and Machine Learning algorithms. She opened her talk by asking the audience for suggestions on how to define Machine Learning. Jupyter notebooks, and then Kubeflow.
+>>>>>>> 94a3d9dcf1c495c300baf904f6407e881d3b8b81
 
 ### Talk: Running Kubernetes without Docker using CRI
 
@@ -26,6 +30,8 @@ The Container Runtime Interface. Virtual Kubelet.
 
 ### The Attendees
 
+Over 50 attendees were present.
+
 ### The Gifts
 
 ## The Pub
@@ -33,6 +39,5 @@ The Container Runtime Interface. Virtual Kubelet.
 The post-Meetup drinks were held at Tiny Rebel.
 
 ### The Next Meetup
-
 
 We're excited to be welcoming [Greg Simons](https://twitter.com/gregsimons84) and [Sam Newman](https://twitter.com/samnewman) for our [next Meetup](https://www.meetup.com/Cloud-Native-Wales/events/lxwbppyxkbqb/) on Thursday, the 5th of July.
