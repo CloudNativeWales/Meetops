@@ -1,4 +1,4 @@
-# OUR SECOND MEETUP
+# OUR THIRD MEETUP
 
 Thursday, July 5th, 6pm at DevOpsGroup offices, Cardiff.
 
